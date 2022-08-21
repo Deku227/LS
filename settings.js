@@ -44,10 +44,10 @@ global.packname = '© panelcheat.xyzོ' //sticker wm ubah
 global.author = 'panelcheat.xyz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
-global.multiplier = 69
+global.multiplier = 900
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 900
 }
 
 global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
