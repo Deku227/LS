@@ -13,9 +13,9 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = true 
-global.userRegister = true 
+global.userRegister = false 
 
 //language
 //Available in indonesia , english & spanyol 
@@ -25,8 +25,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "CS-panelོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ LS OFCོ ×፝֟͜×" //nama kalian
+global.botname = "CS-PanelCheat" //namabot kalian
+global.ownername= "ᴹᴿ᭄ YT:LS OFCོ ×፝֟͜×" //nama kalian
 global.myweb ="https://panelcheat.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/LSOFCMLBB" //bebas asal jan hapus
 global.myweb2 = "http://bit.ly/JasaSosmedLS" //bebas
@@ -44,10 +44,10 @@ global.packname = '© panelcheat.xyzོ' //sticker wm ubah
 global.author = 'panelcheat.xyz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
-global.multiplier = 900
+global.multiplier = 99999
 global.limitawal = {
     premium: "Infinity",
-    free: 900
+    free: 99999
 }
 
 global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
