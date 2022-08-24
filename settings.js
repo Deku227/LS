@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "CS-PanelCheat" //namabot kalian
+global.botname = "JASA SEWA BOT" //namabot kalian
 global.ownername= "ᴹᴿ᭄ YT:LS OFCོ ×፝֟͜×" //nama kalian
 global.myweb ="https://panelcheat.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/LSOFCMLBB" //bebas asal jan hapus
@@ -33,8 +33,8 @@ global.myweb2 = "http://bit.ly/JasaSosmedLS" //bebas
 global.email = "panel.cheat.ls.ofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285156756860'] //premium user
-global.owner = ["6285156756860","6281313371306"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6285156756860','62882020572311'] //premium user
+global.owner = ["6285156756860","6281313371306","62882020572311"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285156756860" // nomor wa kalian
 global.ownernomerr = "+6285156756860" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
@@ -44,10 +44,10 @@ global.packname = '© panelcheat.xyzོ' //sticker wm ubah
 global.author = 'panelcheat.xyz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
-global.multiplier = 99999
+global.multiplier = 200
 global.limitawal = {
     premium: "Infinity",
-    free: 99999
+    free: 200
 }
 
 global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
